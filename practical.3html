@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basic HTML5 Webpage</title>
+</head>
+
+<body id="top">
+
+<!-- Marquee -->
+<marquee behavior="scroll" direction="left">
+    Welcome to My Basic HTML5 Webpage
+</marquee>
+
+<!-- Heading -->
+<h1>HTML5 Webpage Example</h1>
+<p>This webpage demonstrates <b>HTML5 elements</b> like text formatting, lists, images, and hyperlinks.</p>
+
+<hr>
+
+<!-- Text Formatting -->
+<h2>Text Formatting</h2>
+<p>This is <b>bold</b> text.</p>
+<p>This is <i>italic</i> text.</p>
+<p>This is <u>underlined</u> text.</p>
+<p>This is <strong>strong</strong> text.</p>
+<p>This is <em>emphasized</em> text.</p>
+
+<hr>
+
+<!-- Unordered List -->
+<h2>Unordered List (Hobbies)</h2>
+<ul>
+    <li>Reading</li>
+    <li>Traveling</li>
+    <li>Playing Games</li>
+    <li>Listening to Music</li>
+</ul>
+
+<!-- Ordered List -->
+<h2>Ordered List (Steps to Create a Webpage)</h2>
+<ol>
+    <li>Open a text editor</li>
+    <li>Write HTML code</li>
+    <li>Save the file with .html extension</li>
+    <li>Open the file in a browser</li>
+</ol>
+
+<!-- Description List -->
+<h2>Description List (Web Technologies)</h2>
+<dl>
+    <dt>HTML</dt>
+    <dd>Used to create the structure of web pages.</dd>
+
+    <dt>CSS</dt>
+    <dd>Used to style web pages.</dd>
+
+    <dt>JavaScript</dt>
+    <dd>Used to add interactivity to web pages.</dd>
+</dl>
+
+<hr>
+
+<!-- Image -->
+<h2>Image Example</h2>
+<img src="https://via.placeholder.com/300" alt="Sample Image" width="300">
+
+<hr>
+
+<!-- Hyperlinks -->
+<h2>Hyperlinks</h2>
+
+<p>
+External Link:
+<a href="https://www.google.com" target="_blank">Visit Google</a>
+</p>
+
+<p>
+Email Link:
+<a href="mailto:someone@example.com">Send Email</a>
+</p>
+
+<p>
+Internal Link:
+<a href="#top">Go to Top of Page</a>
+</p>
+
+<hr>
+
+<footer>
+<p>© 2026 Basic HTML5 Webpage</p>
+</footer>
+
+</body>
+</html>
